@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/paulino-s/m-e-r-n/issues"
   },
-  "homepage": "https://github.com/paulino-s/m-e-r-n#readme"
+  "homepage": "https://github.com/paulino-s/m-e-r-n#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.9"
+  }
 }
